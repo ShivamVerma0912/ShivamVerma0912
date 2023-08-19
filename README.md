@@ -1,9 +1,29 @@
 <h1 align="center">Hi 👋, I'm Shivam Verma</h1>
 <h3 align="center">A passionate Backend developer from India</h3>
 
+
+
+### Backend Development 🚀
+- Engaged in hands-on backend projects to refine skills.
+- Dedicated to enhancing robust and efficient backend systems.
+
+### Learning Environment 📚
+- Thriving at Geekster, rapidly advancing career knowledge
+- Leveraging internship to excel in backend expertise
+
+### Web Development 💻
+- Seeking web development roles.
+- Currently a Java Spring Boot backend learner at Geekster.
+- Crafting strong backend solutions with Spring Boot experience.
+
+### Passion for Impactful Projects 🌟
+- Enthusiastic about impactful web development
+- Seeking roles to contribute expertise and foster personal growth as a web developer.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shivamverma0912&label=Profile%20views&color=0e75b6&style=flat" alt="shivamverma0912" /> </p>
 
-- 🌱 I’m currently learning **Springboot, SQL,**
+
+- 🌱 I’m currently learning **Springboot, SQL,HTML, CSS, Javascript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/ShivamVerma0912](https://github.com/ShivamVerma0912)
 
