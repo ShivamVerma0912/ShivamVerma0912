@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Backend developer from India</h3>
 
 
+<h3 align="left">
 
 ### Backend Development 🚀
 - Engaged in hands-on backend projects to refine skills.
